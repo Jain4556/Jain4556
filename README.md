@@ -7,12 +7,6 @@
 
 ## 📊 GitHub Activity Overview
 
+## 📊 Contributions
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jain4556&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jain4556&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jain4556&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jain4556&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jain4556&theme=github_dark)
