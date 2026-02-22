@@ -4,6 +4,3 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jain4556&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/Jain4556)
 
-## 📊 Contributions
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jain4556&theme=github_dark)
