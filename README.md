@@ -5,3 +5,14 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jain4556&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/Jain4556)
 
 
+## 📊 GitHub Activity Overview
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jain4556&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jain4556&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jain4556&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jain4556&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jain4556&theme=github_dark)
